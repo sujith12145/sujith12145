@@ -103,7 +103,7 @@ class rachagulla sujith:
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a herf="https://sujith-portfolio-lemon.vercel.app/">
+<a herf="https://sujith-portfolio-lemon.vercel.app">
 <img src="https://img.shields.io/badge/portfolio-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>  
 
